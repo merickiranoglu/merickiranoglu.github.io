@@ -15,7 +15,7 @@
     <q-drawer show-if-above v-model="left" side="left" bordered>
     <div class="col q-my-xl" style="align-items: center; display: flex; justify-content: center;">
      <q-img id= "imgProfilePicture"
-        :src="'/statics/images/IMG_6249.jpg'"
+        :src="'/statics/images/IMG_6249-min.jpg'"
       />
     </div>
     <div class="col" style="align-items: center; display: flex; justify-content: center;">
