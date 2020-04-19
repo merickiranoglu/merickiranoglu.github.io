@@ -13,12 +13,12 @@
     </q-header>
 
     <q-drawer show-if-above v-model="left" side="left" bordered>
-    <div class="col q-my-xl" style="align-items: center; display: flex; justify-content: center;">
+    <div class="col q-ma-xl" style="align-items: center; display: flex; justify-content: center; width: 200px; height: 300px">
      <q-img id= "imgProfilePicture"
         :src="'/statics/images/IMG_6249-min.jpg'"
       />
     </div>
-    <div class="col" style="align-items: center; display: flex; justify-content: center;">
+    <div class="col" style="align-items: center; display: flex; justify-content: center; padding: 8px 32px 8px 16px;">
      <q-list>
         <q-item to="/" clickable>
           <q-item-section avatar>
