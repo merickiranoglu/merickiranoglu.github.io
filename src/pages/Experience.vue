@@ -6,7 +6,7 @@
         <div>
             <div>
                 <div><h5> <q-img
-                  :src="'/resume/statics/images/prota.png'"
+                  :src="'/statics/images/prota.png'"
                   style="width: 75px"/>  Prota Software</h5></div>
                 <p style = "font-weight: bold;">Civil Engineer & Software Developer</p>
                 <p>Literature review of civil engineering phenomenons, creation and implementation of algorithms,
@@ -20,7 +20,7 @@
         <div>
             <div>
                 <div><h5> <q-img
-                  :src="'/resume/statics/images/teknik.png'"
+                  :src="'/statics/images/teknik.png'"
                   style="width: 75px"/>  Teknik Tempo International Engineering Co.</h5></div>
                 <p style = "font-weight: bold;">Civil Engineer</p>
                 <p>Structural engineering, Open Channel Flow design and River Engineering applications in Flood
@@ -33,7 +33,7 @@
         <div>
             <div>
                 <div><h5><q-img
-                  :src="'/resume/statics/images/pik.jpg'"
+                  :src="'/statics/images/pik.jpg'"
                   style="width: 75px"/>  Pik Enerji Mühendislik</h5></div>
                 <p style = "font-weight: bold;">Civil Engineer</p>
                 <p>Hydraulic and structural engineering of Hydropower Plant projects.</p>

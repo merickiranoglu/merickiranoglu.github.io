@@ -6,7 +6,7 @@
             <div>
                 <div>
                   <h5> <q-img
-                  :src="'/resume/statics/images/metuLogo.png'"
+                  :src="'/statics/images/metuLogo.png'"
                   style="height: 75px; width: 85px"/>  Middle East Technical University</h5>
                   <div>Civil Engineering, Water Resources (Master of Sc.)</div>
                   <div> Thesis: <a href="http://etd.lib.metu.edu.tr/upload/12623285/index.pdf">Computer Assisted Analysis of Flow Over Spillway Chutes</a></div>
@@ -18,7 +18,7 @@
               <div>
                 <div>
                   <h5><q-img
-                  :src="'/resume/statics/images/esoguLogo.png'"
+                  :src="'/statics/images/esoguLogo.png'"
                   style="height: 85px; width: 85px"/>  Eskişehir Osmangazi Üniversitesi</h5>
                   <div>Civil Engineering (Bachelor of Sc.)</div>
                 </div>
