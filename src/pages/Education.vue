@@ -8,11 +8,11 @@
                   <h5> <q-img
                   :src="'/statics/images/metuLogo.png'"
                   style="height: 75px; width: 85px"/>  Middle East Technical University</h5>
-                  <div>Civil Engineering, Water Resources (Master of Sc.)</div>
+                  <div>Civil Engineering, Water Resources Dept. (Master of Sc.)</div>
                   <div> Thesis: <a href="http://etd.lib.metu.edu.tr/upload/12623285/index.pdf">Computer Assisted Analysis of Flow Over Spillway Chutes</a></div>
                 </div>
                 <div>
-                  <span>Jan 2015 - June 2019</span>
+                  <span>Mar 2015 - June 2019</span>
                 </div>
               </div>
               <div>

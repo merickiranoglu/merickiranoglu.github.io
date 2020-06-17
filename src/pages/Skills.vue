@@ -1,7 +1,7 @@
 <template>
   <q-page>
     <section>
-    <div class="q-pa-lg">
+    <div class="q-px-md">
       <h5>Engineering Softwares</h5>
         <p>I have fair knowledge as a senior water resources engineer in following softwares.</p>
           <ul>
@@ -12,18 +12,29 @@
            <li>Lindo (Linear Programming)</li>
           </ul>
     </div>
-    <div class="q-pa-lg">
-      <h5>Programming Languages</h5>
-        <p>I'm a junior software developer. I also study web development technologies as a side career goal.</p>
+    <div class="q-px-md">
+      <h5>Software Development Utilities</h5>
+           <ul>
+            <li>Object Oriented Programming</li>
+            <li>Source/Version Control (Git, SourceAnywhere, Bitbucket)</li>
+            <li>Atlassian Jira</li>
+          </ul>
+    </div>
+    <div class="q-px-md">
+      <h5>Windows Applications</h5>
           <ul>
-            <li>
-                        C# &amp; VB.Net
-                        <p>(I'm familiar with DevExpress, VectorDraw, EyeShot libraries.)</p>
-            </li>
-            <li>
-                        HTML &amp; CSS &amp; Javascript
-                        <p>(I'm familiar with Vue.js & Quasar framework, Node.js, Express.js, Two.js libraries.)</p>
-            </li>
+            <li>C# &amp; VB.Net</li>
+            <li>DevExpress, VectorDraw, Eyeshot libraries</li>
+            <li>Unity3D Game Development</li>
+          </ul>
+    </div>
+    <div class="q-px-md">
+      <h5>Web Applications</h5>
+          <ul>
+            <li>HTML, CSS, Javascript</li>
+            <li>Node.js, Express, MongoDB (Back End Development)</li>
+            <li>Vue.js, Quasar (Front End Web Development Frameworks)</li>
+            <li>Two.js, D3.js (Javascript libraries)</li>
           </ul>
     </div>
     </section>
