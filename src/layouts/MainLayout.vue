@@ -4,12 +4,24 @@
     <q-header elevated class="bg-primary text-white" height-hint="98">
       <q-toolbar>
         <q-btn dense flat round icon="menu" @click="left = !left" />
-
         <q-toolbar-title>
-        <div class="col" style="align-items: center; display: flex; justify-content: center; letter-spacing: 0.25em;" >Meriç Kıranoğlu</div>
+            <div style="font-size: 16px; display: flex; justify-content: center;">
+            <span style="align-items: center; letter-spacing: 0.25em;">
+            Meriç Kıranoğlu
+            </span>
+            <span class="q-pl-xl">
+            <a href="https://www.linkedin.com/in/mkiranoglu/">
+              <i class="fab fa-linkedin-in fa-md" style="color: white;"></i>
+            </a>
+            </span>
+            <span class="q-pl-md">
+            <a href="https://github.com/merickiranoglu">
+              <i class="fab fa-github fa-md" style="color: white;"></i>
+            </a>
+            </span>
+          </div>
         </q-toolbar-title>
       </q-toolbar>
-
     </q-header>
 
     <q-drawer show-if-above v-model="left" side="left" bordered>
