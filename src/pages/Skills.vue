@@ -32,8 +32,8 @@
       <h5>Web Applications</h5>
           <ul>
             <li>HTML, CSS, Javascript</li>
-            <li>Node.js, Express, MongoDB (Back End Development)</li>
-            <li>Vue.js, Quasar (Front End Web Development Frameworks)</li>
+            <li>Node.js, Express, MongoDB, DynamoDB (Back End Development)</li>
+            <li>Vue.js, Quasar, Nuxt.js (Front End Web Development Frameworks)</li>
             <li>Two.js, D3.js (Javascript libraries)</li>
           </ul>
     </div>
